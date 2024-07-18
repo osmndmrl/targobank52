@@ -1,0 +1,14 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "payment"
+    },
+    "answers": {
+      "name": "TARGOBANKPAYMENTSYSTEMS",
+      "author": "Osman Demirel - Sedel Kaya",
+      "type": "payment",
+      "description": "payment",
+      "version": "0.0.1"
+    }
+  }
+}

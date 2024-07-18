@@ -1,0 +1,13 @@
+{
+    "name": "TARGOBANKPayment",
+    "namespace": "TARGOBANKPayment",
+    "type": "payment",
+    "version": "1.0.0",
+    "author": "Villastore",
+    "email": "support@villastore.com",
+    "phone": "123-456-7890",
+    "serviceProvider": "TARGOBANKPayment\\Providers\\TARGOBANKPaymentServiceProvider",
+    "dependencies": {
+        "guzzlehttp/guzzle": "6.3.*"
+    }
+}
